@@ -1,0 +1,1 @@
+print("AI will destroy the world")
